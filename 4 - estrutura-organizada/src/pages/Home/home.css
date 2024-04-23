@@ -1,0 +1,13 @@
+.container{
+    height: 100vh;
+    background-color: #19191B;
+}
+
+.container p{
+    color:white;
+    font-size: 18px;
+    margin-top:40px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
