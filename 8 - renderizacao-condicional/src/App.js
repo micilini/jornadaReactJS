@@ -2,6 +2,7 @@ import Botoes from './components/Botoes';
 import FraseAleatoria from './components/FraseAleatoria';
 import MudarCorTexto from './components/MudarCorTexto';
 import Animacao from './components/Animacao';
+import ListaUsuarios from './components/ListaUsuarios';
 
 export default function App() {
     return(
@@ -13,6 +14,8 @@ export default function App() {
             <MudarCorTexto />
             <br />
             <Animacao />
+            <br />
+            <ListaUsuarios />
         </div>
     )
 }
