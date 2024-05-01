@@ -1,0 +1,13 @@
+.animated {
+    animation: animateTitle 1s forwards;
+}
+  
+@keyframes animateTitle {
+    from {
+      padding-left: 0;
+    }
+    to {
+      padding-left: 50px; /* Valor desejado de padding-left */
+    }
+}
+  
