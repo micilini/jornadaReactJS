@@ -10,7 +10,7 @@ const Menu = () => {
             <Link to="/contato">Contato</Link>
             <Link to="/servicos">Serviços</Link>
             <Link to="/clientes">Clientes</Link>
-            <div class="animation start-home"></div>
+            <div className="animation start-home"></div>
         </nav>
         </>
     );
