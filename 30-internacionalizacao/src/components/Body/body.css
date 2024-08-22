@@ -1,0 +1,24 @@
+section{
+    width: 100%;
+    height: calc(100vh - 80px);
+    display: block;
+    background-color: antiquewhite;
+    text-align: center;
+    padding:20px 0px;
+}
+
+section h2{
+    width: 100%;
+    height: auto;
+    margin-bottom:25px;
+}
+
+section p{
+    font-size: 18px;
+    color: #333333;
+    margin-top:12px;
+}
+
+section p a{
+    text-decoration: none;
+}
